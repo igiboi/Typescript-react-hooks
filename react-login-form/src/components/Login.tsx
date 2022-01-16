@@ -153,7 +153,7 @@ const Login = () => {
     <body>
       <form className={classes.container} noValidate autoComplete="off">
         <Card className={classes.card}>
-          <CardHeader className={classes.header} title="CodeHunter Malware" />
+          <CardHeader className={classes.header} title=" CodeHunter Data Viewer" />
           <CardContent>
             <div>
               <TextField
